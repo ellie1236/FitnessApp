@@ -6,7 +6,7 @@
         id        = "mob.app.fitnessapp"
         version   = "1.0.0">
 
-    <name>Fitness Buddyname>
+    <name>Running Buddy<name>
 
     <description>
         A sample application that explores local storage options.
